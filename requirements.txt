@@ -1,0 +1,7 @@
+python-dotenv~=1.1.1
+requests~=2.32.4
+openai~=1.92.3
+ollama~=0.5.1
+beautifulsoup4~=4.13.4
+google-genai
+anthropic~=0.55.0
